@@ -6,6 +6,9 @@
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.6.2",
+  "scripts": {
+    "watch": "vite"
+  },
   "dependencies": {
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",

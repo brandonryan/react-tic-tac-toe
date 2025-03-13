@@ -1,4 +1,4 @@
-import { ReactNode, useCallback, useMemo, useState } from "react"
+import { ReactNode } from "react"
 import { useTicTacToe } from "../hooks/use-tic-tac-toe";
 import { markerToEmoji, TicTacToeCell } from "./tic-tac-toe-cell";
 
